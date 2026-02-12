@@ -137,20 +137,22 @@ Sistema web para votaciones **seguras, transparentes y auditables**. Gestión co
 </table>
 
 ---
-
 <div align="center">
 
 ### `> neofetch --github`
 
-<a href="https://github.com/Jhefry09">
-  <img height="180em" src="https://github-readme-stats-nine-psi-23.vercel.app/api?username=Jhefry09&show_icons=true&theme=tokyo-night&border_color=7AA2F7&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats-nine-psi-23.vercel.app/api/top-langs/?username=Jhefry09&layout=compact&theme=tokyo-night&border_color=7AA2F7&langs_count=8&cache_seconds=1800" />
-</a>
-
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jhefry09&theme=tokyonight&locale=es)](https://git.io/streak-stats)
+<table>
+<tr>
+<td valign="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jhefry09&theme=tokyonight&locale=es" />
+  <br/>
+  <img src="https://github-readme-stats-nine-psi-23.vercel.app/api?username=Jhefry09&theme=tokyonight&locale=es&cache_seconds=1800" />
+</td>
+<td valign="center">
+  <img src="https://github-readme-stats-nine-psi-23.vercel.app/api/top-langs/?username=Jhefry09&theme=tokyonight&locale=es&cache_seconds=1800" />
+</td>
+</tr>
+</table>
 
 </div>
 
