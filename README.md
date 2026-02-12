@@ -9,6 +9,7 @@
   ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝   ╚═╝    
 ```
 
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Linux+Power+User+%7C+Fedora+%2B+Hyprland;Server+Admin+%7C+Debian+%2F+RedHat;Container+Enthusiast+%7C+Docker+%2F+Podman;If+it+runs%2C+I+want+to+know+WHY." alt="Typing SVG" />
 
 </div>
@@ -66,6 +67,7 @@ public class JhefrycCabanillas extends BackendDeveloper {
 
 #### ⬡ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### ⬡ Bases de Datos
@@ -141,9 +143,10 @@ Sistema web para votaciones **seguras, transparentes y auditables**. Gestión co
 ### `> neofetch --github`
 
 <a href="https://github.com/Jhefry09">
-  <img height="180em" src="https://github-readme-stats-nine-psi-23.vercel.app/api?username=Jhefry09&show_icons=true&theme=tokyo-night&border_color=7AA2F7&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-nine-psi-23.vercel.app/api/top-langs/?username=Jhefry09&layout=compact&theme=tokyo-night&border_color=7AA2F7&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-nine-psi-23.vercel.app/api?username=Jhefry09&show_icons=true&theme=tokyo-night&border_color=7AA2F7&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-nine-psi-23.vercel.app/api/top-langs/?username=Jhefry09&layout=compact&theme=tokyo-night&border_color=7AA2F7&langs_count=8&cache_seconds=1800" />
 </a>
+
 
 <br/>
 
