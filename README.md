@@ -143,7 +143,7 @@ Sistema web para votaciones **seguras, transparentes y auditables**. Gestión co
 <table>
 <tr>
 <td valign="center">
-  <img width="495" src="https://github-readme-streak-stats.herokuapp.com?user=GustavoTuesta&theme=tokyonight&locale=es" />
+  <img width="495" src="https://github-readme-streak-stats.herokuapp.com?user=Jhefry09&theme=tokyonight&locale=es" />
   <br/>
   <img width="495" src="https://github-readme-stats-nine-psi-23.vercel.app/api?username=Jhefry09&theme=tokyonight&locale=es&cache_seconds=1800" />
 </td>
