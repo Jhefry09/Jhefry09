@@ -138,7 +138,7 @@ Sistema web para votaciones **seguras, transparentes y auditables**. Gestión co
 ---
 <div align="center">
 
-### `> neofetch --github`
+### `> fastfetch --github`
 
 <table>
 <tr>
