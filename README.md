@@ -154,7 +154,17 @@ Sistema web para votaciones **seguras, transparentes y auditables**. Gestión co
 </table>
 
 </div>
+---
+<div align="center">
 
+
+## 🐍 `CONTRIBUCIONES` 🐍
+
+
+![snake gif](https://raw.githubusercontent.com/Jhefry09/Jhefry09/output/github-contribution-grid-snake-dark.svg)
+
+
+</div>
 ---
 
 <div align="center">
