@@ -1,188 +1,69 @@
 <div align="center">
-
-```
-     ██╗██╗  ██╗███████╗███████╗██████╗ ██╗   ██╗ 
-      ██║██║  ██║██╔════╝██╔════╝██╔══██╗╚██╗ ██╔╝
-      ██║███████║█████╗  █████╗  ██████╔╝ ╚████╔╝ 
- ██   ██║██╔══██║██╔══╝  ██╔══╝  ██╔══██╗  ╚██╔╝  
- ╚█████╔╝██║  ██║███████╗██║     ██║  ██║   ██║   
-  ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝   ╚═╝    
-```
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Linux+Power+User+%7C+Fedora+%2B+Hyprland;Server+Admin+%7C+Debian+%2F+RedHat;Container+Enthusiast+%7C+Docker+%2F+Podman;If+it+runs%2C+I+want+to+know+WHY." alt="Typing SVG" />
-
+  <img src="./assets/hero-pixel.png" width="100%" alt="Jhefry Cabanillas — Full-Stack & Backend Developer" />
 </div>
 
----
-
-<div align="center">
-
-### `> whoami`
-
-</div>
-
-```java
-public class JhefrycCabanillas extends BackendDeveloper {
-
-    private final String alias    = "Jhefry09";
-    private final String location = "🌍 Perú";
-    private final OS     system   = new Fedora(wm = "Hyprland");
-    private final VPS    server   = new Debian("self-managed lab");
-
-    @Override
-    public String bio() {
-        return """
-            No me conformo con que funcione — quiero saber POR QUÉ funciona
-            y cómo hacerlo mejor. Developer con instinto hacker: curioso,
-            metódico y sin miedo a romper cosas para entenderlas.
-            Backend sólido, mentalidad full-stack experimental.
-        """;
-    }
-
-    public String[] currentFocus() {
-        return new String[]{
-            "Arquitecturas con Spring Boot",
-            "Administración de servidores Linux",
-            "Orquestación de contenedores",
-            "Sistemas escalables y bien estructurados"
-        };
-    }
-}
-```
-
----
-
-<div align="center">
-
-### `> ls ~/stack --all`
-
-</div>
-
-#### ⬡ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### ⬡ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### ⬡ Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-#### ⬡ Sistemas & Servidores
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### ⬡ Contenedores & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-<div align="center">
-
-### `> cat ~/projects --featured`
-
-</div>
+## Sobre mí
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤟 Sign Language Learning Platform
-
-```
-STATUS: [██████████] DEPLOYED
-STACK:  Spring Boot · React · Python · MySQL
-```
-
-Plataforma interactiva para la enseñanza del lenguaje de señas con **reconocimiento gestual en tiempo real**. Detecta la posición de los dedos vía cámara para identificar números, letras, palabras y operaciones matemáticas.
-
-**Highlights:**
-- 🎯 Microservicio en Python para cálculo de distancia euclidiana
-- 👤 Autenticación con reconocimiento facial
-- 🧠 Entrenamiento y almacenamiento de modelos gestuales
-- ⚡ Procesamiento en tiempo real vía cámara
-
-</td>
-<td width="50%" valign="top">
-
-### 🗳️ Online Voting Platform
-
-```
-STATUS: [██████████] DEPLOYED
-STACK:  Spring Boot · React · PostgreSQL · Resend
-```
-
-Sistema web para votaciones **seguras, transparentes y auditables**. Gestión completa del ciclo de votación con verificación de identidad por correo electrónico.
-
-**Highlights:**
-- 🔐 Verificación por email con Resend API
-- 📊 Resultados en tiempo real
-- 📄 Descarga de reportes de participación
-- 🛡️ Integridad garantizada por usuario único
-
-</td>
-</tr>
+  <tr>
+    <td valign="middle" width="66%">
+      Desarrollador Full-Stack y Backend en etapa final de Ingeniería de Software con IA en Lima, Perú.
+      Construyo, migro y despliego sistemas empresariales en producción con <strong>NestJS</strong>, <strong>Spring Boot</strong>, <strong>Next.js</strong> y <strong>Python</strong>.
+      <br /><br />
+      Trabajo a diario con contenedores <strong>Docker</strong>, servidores <strong>Linux Debian</strong>, proxy inverso <strong>Nginx</strong> e infraestructura cloud en <strong>AWS</strong>.
+      <br /><br />
+      <a href="mailto:jhefrycabanillas@gmail.com">jhefrycabanillas@gmail.com</a> · <a href="https://www.linkedin.com/in/jhefry-cabanillas">LinkedIn</a>
+    </td>
+    <td valign="middle" align="center" width="34%">
+      <img src="./assets/dev-pixel.png" width="200" alt="Jhefry pixel art" />
+    </td>
+  </tr>
 </table>
 
----
+## Proyectos destacados
+
+**SOFI & Migración Cloud Multi-Tenant** — *Producción · Privado*
+API administrativa central y dashboard web para gestión empresarial, junto con la migración multi-tenant en AWS mediante infraestructura como código con CloudFormation, ECS Fargate, RDS PostgreSQL 16 y VPC Multi-AZ.
+`NestJS` · `Spring Boot` · `Next.js` · `PostgreSQL` · `AWS`
+
+**PlacaVision** — *Visión Artificial*
+Sistema de detección vehicular y lectura OCR de placas en tiempo real con alertas por WebSockets, optimizado para inferencia PyTorch en CPU dentro de contenedores Docker Multi-Stage bajo Nginx SSL.
+`Python` · `YOLOv8` · `PyTorch` · `OpenCV` · `React` · `Docker`
+
+**MiRutaYa** — *Tracking GPS*
+API REST de geolocalización de unidades en tiempo real con caché en Redis, autenticación JWT, correos transaccionales con Resend y cliente web en React con TypeScript.
+`NestJS` · `TypeORM` · `PostgreSQL` · `Redis` · `React`
+
+## Stack técnico
+
+**Backend & Frontend**
+<br />
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java 21](https://img.shields.io/badge/Java_21-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
+![NestJS](https://img.shields.io/badge/NestJS-161b22?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-161b22?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Datos, Cloud & Linux**
+<br />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=DC382D)
+![Prisma](https://img.shields.io/badge/Prisma-161b22?style=flat-square&logo=prisma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-161b22?style=flat-square&logo=nginx&logoColor=009639)
+![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+
+## Actividad
+
 <div align="center">
-
-### `> fastfetch --github`
-
-<table>
-<tr>
-<td valign="center">
-  <img width="495" src="https://github-readme-streak-stats.herokuapp.com?user=Jhefry09&theme=tokyonight&locale=es" />
-  <br/>
-  <img width="495" src="https://github-readme-stats-nine-psi-23.vercel.app/api?username=Jhefry09&theme=tokyonight&locale=es&cache_seconds=1800" />
-</td>
-<td valign="center">
-  <img src="https://github-readme-stats-nine-psi-23.vercel.app/api/top-langs/?username=Jhefry09&theme=tokyonight&locale=es&cache_seconds=1800" />
-</td>
-</tr>
-</table>
-
-</div>
-<div align="center">
-
-
-## `CONTRIBUCIONES`
-
-
-![snake gif](https://raw.githubusercontent.com/Jhefry09/Jhefry09/output/github-contribution-grid-snake-dark.svg)
-
-
-</div>
-
-<div align="center">
-
-### `> cat /etc/motd`
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   "No me conformo con que funcione.                     │
-│    Quiero saber POR QUÉ funciona."                      │
-│                                                         │
-│   OS     → Fedora Linux  [Hyprland WM]                  │
-│   SERVER → Debian VPS    [self-managed]                 │
-│   EDITOR → (the best one)                               │
-│   SHELL  → zsh / bash                                   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-![Profile views](https://komarev.com/ghpvc/?username=Jhefry09&color=7aa2f7&style=for-the-badge&label=VISITORS)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhefry09/Jhefry09/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhefry09/Jhefry09/output/github-contribution-grid-snake.svg" />
+    <img alt="Grafo de contribuciones" src="https://raw.githubusercontent.com/Jhefry09/Jhefry09/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
