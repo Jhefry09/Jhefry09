@@ -10,7 +10,7 @@
       Desarrollador Full-Stack y Backend en etapa final de Ingeniería de Software con IA en Lima, Perú.
       Construyo, migro y despliego sistemas empresariales en producción con <strong>NestJS</strong>, <strong>Spring Boot</strong>, <strong>Next.js</strong> y <strong>Python</strong>.
       <br /><br />
-      Trabajo a diario con contenedores <strong>Docker</strong>, servidores <strong>Linux Debian</strong>, proxy inverso <strong>Nginx</strong> e infraestructura cloud en <strong>AWS</strong>.
+      Trabajo a diario con contenedores <strong>Docker</strong>, servidores <strong>Linux Debian</strong> y proxy inverso <strong>Nginx</strong>, además de diseñar arquitecturas cloud en <strong>AWS</strong>.
       <br /><br />
       <a href="mailto:jhefrycabanillas@gmail.com">jhefrycabanillas@gmail.com</a> · <a href="https://www.linkedin.com/in/jhefry-cabanillas">LinkedIn</a>
     </td>
@@ -22,9 +22,13 @@
 
 ## Proyectos destacados
 
-**SOFI & Migración Cloud Multi-Tenant** — *Producción · Privado*
-API administrativa central y dashboard web para gestión empresarial, junto con la migración multi-tenant en AWS mediante infraestructura como código con CloudFormation, ECS Fargate, RDS PostgreSQL 16 y VPC Multi-AZ.
-`NestJS` · `Spring Boot` · `Next.js` · `PostgreSQL` · `AWS`
+**SOFI** — *Producción · Privado*
+API administrativa central, dashboard web y sistema distribuido de asistencia desplegados sobre VPS Debian con Docker Compose, Nginx SSL y automatización vía GitHub Webhooks.
+`NestJS` · `Spring Boot` · `Next.js` · `Python` · `PostgreSQL` · `Docker`
+
+**Arquitectura Cloud Multi-Tenant en AWS** — *Proyecto de Infraestructura IaC*
+Diseño y aprovisionamiento en AWS con CloudFormation modelando la migración de una plataforma multi-tenant sobre VPC Multi-AZ, ECS Fargate, RDS PostgreSQL 16, ALB, S3 e IAM.
+`AWS` · `CloudFormation` · `ECS Fargate` · `RDS` · `VPC`
 
 **PlacaVision** — *Visión Artificial*
 Sistema de detección vehicular y lectura OCR de placas en tiempo real con alertas por WebSockets, optimizado para inferencia PyTorch en CPU dentro de contenedores Docker Multi-Stage bajo Nginx SSL.
