@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-pixel.png" width="100%" alt="Jhefry Cabanillas — Full-Stack & Backend Developer" />
+  <img src="./assets/hero-pixel.png" width="100%" alt="Jhefry Cabanillas — Full-Stack Software Developer" />
 </div>
 
 ## Sobre mí
@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td valign="middle" width="66%">
-      Desarrollador Full-Stack y Backend en etapa final de Ingeniería de Software con IA en Lima, Perú.
+      Desarrollador de Software Full-Stack orientado a arquitectura Backend en etapa final de Ingeniería de Software con IA en Lima, Perú.
       Construyo, migro y despliego sistemas empresariales en producción con <strong>NestJS</strong>, <strong>Spring Boot</strong>, <strong>Next.js</strong> y <strong>Python</strong>.
       <br /><br />
       Trabajo a diario con contenedores <strong>Docker</strong>, servidores <strong>Linux Debian</strong> y proxy inverso <strong>Nginx</strong>, además de diseñar arquitecturas cloud en <strong>AWS</strong>.
