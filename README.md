@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td valign="middle" width="66%">
-      Desarrollador de Software Full-Stack orientado a arquitectura Backend en etapa final de Ingeniería de Software con IA en Lima, Perú.
+      Desarrollador de Software Full-Stack orientado a arquitectura Backend, cursando la etapa final de Ingeniería de Software con IA en Lima, Perú.
       Construyo, migro y despliego sistemas empresariales en producción con <strong>NestJS</strong>, <strong>Spring Boot</strong>, <strong>Next.js</strong> y <strong>Python</strong>.
       <br /><br />
       Trabajo a diario con contenedores <strong>Docker</strong>, servidores <strong>Linux Debian</strong> y proxy inverso <strong>Nginx</strong>, además de diseñar arquitecturas cloud en <strong>AWS</strong>.
